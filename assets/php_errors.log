@@ -1,0 +1,573 @@
+[05-Jun-2018 21:28:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 6
+[05-Jun-2018 21:28:33 UTC] PHP Stack trace:
+[05-Jun-2018 21:28:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[05-Jun-2018 21:28:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 6
+[05-Jun-2018 21:28:39 UTC] PHP Stack trace:
+[05-Jun-2018 21:28:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[05-Jun-2018 21:28:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 6
+[05-Jun-2018 21:28:48 UTC] PHP Stack trace:
+[05-Jun-2018 21:28:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[06-Jun-2018 02:06:30 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[06-Jun-2018 02:06:30 UTC] PHP Stack trace:
+[06-Jun-2018 02:06:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[06-Jun-2018 02:06:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[06-Jun-2018 02:06:40 UTC] PHP Stack trace:
+[06-Jun-2018 02:06:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[06-Jun-2018 02:07:19 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[06-Jun-2018 02:07:19 UTC] PHP Stack trace:
+[06-Jun-2018 02:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[08-Jun-2018 19:41:13 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[08-Jun-2018 19:41:13 UTC] PHP Stack trace:
+[08-Jun-2018 19:41:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[08-Jun-2018 20:10:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[08-Jun-2018 20:10:39 UTC] PHP Stack trace:
+[08-Jun-2018 20:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[08-Jun-2018 20:19:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[08-Jun-2018 20:19:09 UTC] PHP Stack trace:
+[08-Jun-2018 20:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[09-Jun-2018 04:17:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[09-Jun-2018 04:17:42 UTC] PHP Stack trace:
+[09-Jun-2018 04:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:30:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[10-Jun-2018 02:30:59 UTC] PHP Stack trace:
+[10-Jun-2018 02:30:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:33:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[10-Jun-2018 02:33:55 UTC] PHP Stack trace:
+[10-Jun-2018 02:33:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:34:07 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 25
+[10-Jun-2018 02:34:07 UTC] PHP Stack trace:
+[10-Jun-2018 02:34:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:34:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 39
+[10-Jun-2018 02:34:26 UTC] PHP Stack trace:
+[10-Jun-2018 02:34:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:35:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 41
+[10-Jun-2018 02:35:45 UTC] PHP Stack trace:
+[10-Jun-2018 02:35:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:36:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 43
+[10-Jun-2018 02:36:48 UTC] PHP Stack trace:
+[10-Jun-2018 02:36:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:36:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:36:52 UTC] PHP Stack trace:
+[10-Jun-2018 02:36:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:36:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:36:59 UTC] PHP Stack trace:
+[10-Jun-2018 02:36:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:39:21 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:39:21 UTC] PHP Stack trace:
+[10-Jun-2018 02:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:40:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:40:42 UTC] PHP Stack trace:
+[10-Jun-2018 02:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:41:47 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:41:47 UTC] PHP Stack trace:
+[10-Jun-2018 02:41:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:41:54 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:41:54 UTC] PHP Stack trace:
+[10-Jun-2018 02:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:41:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:41:59 UTC] PHP Stack trace:
+[10-Jun-2018 02:41:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:42:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:42:32 UTC] PHP Stack trace:
+[10-Jun-2018 02:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:42:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:42:45 UTC] PHP Stack trace:
+[10-Jun-2018 02:42:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:42:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:42:55 UTC] PHP Stack trace:
+[10-Jun-2018 02:42:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:43:15 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:43:15 UTC] PHP Stack trace:
+[10-Jun-2018 02:43:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:43:28 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:43:28 UTC] PHP Stack trace:
+[10-Jun-2018 02:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:43:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:43:58 UTC] PHP Stack trace:
+[10-Jun-2018 02:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:44:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:44:09 UTC] PHP Stack trace:
+[10-Jun-2018 02:44:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:44:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:44:39 UTC] PHP Stack trace:
+[10-Jun-2018 02:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:44:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:44:55 UTC] PHP Stack trace:
+[10-Jun-2018 02:44:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:45:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:45:42 UTC] PHP Stack trace:
+[10-Jun-2018 02:45:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:45:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:45:52 UTC] PHP Stack trace:
+[10-Jun-2018 02:45:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:46:47 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:46:47 UTC] PHP Stack trace:
+[10-Jun-2018 02:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:46:57 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:46:57 UTC] PHP Stack trace:
+[10-Jun-2018 02:46:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:47:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:47:26 UTC] PHP Stack trace:
+[10-Jun-2018 02:47:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:47:41 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:47:41 UTC] PHP Stack trace:
+[10-Jun-2018 02:47:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:50:50 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:50:50 UTC] PHP Stack trace:
+[10-Jun-2018 02:50:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:51:06 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:51:06 UTC] PHP Stack trace:
+[10-Jun-2018 02:51:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:51:14 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:51:14 UTC] PHP Stack trace:
+[10-Jun-2018 02:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:51:49 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:51:49 UTC] PHP Stack trace:
+[10-Jun-2018 02:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:52:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:52:48 UTC] PHP Stack trace:
+[10-Jun-2018 02:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:52:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:52:58 UTC] PHP Stack trace:
+[10-Jun-2018 02:52:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:53:01 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:53:01 UTC] PHP Stack trace:
+[10-Jun-2018 02:53:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:53:04 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 54
+[10-Jun-2018 02:53:04 UTC] PHP Stack trace:
+[10-Jun-2018 02:53:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:54:31 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 58
+[10-Jun-2018 02:54:31 UTC] PHP Stack trace:
+[10-Jun-2018 02:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:55:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 33
+[10-Jun-2018 02:55:33 UTC] PHP Stack trace:
+[10-Jun-2018 02:55:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:56:03 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 33
+[10-Jun-2018 02:56:03 UTC] PHP Stack trace:
+[10-Jun-2018 02:56:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:56:15 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 33
+[10-Jun-2018 02:56:15 UTC] PHP Stack trace:
+[10-Jun-2018 02:56:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:56:34 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 33
+[10-Jun-2018 02:56:34 UTC] PHP Stack trace:
+[10-Jun-2018 02:56:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:56:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:56:43 UTC] PHP Stack trace:
+[10-Jun-2018 02:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:56:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:56:55 UTC] PHP Stack trace:
+[10-Jun-2018 02:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:57:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:57:05 UTC] PHP Stack trace:
+[10-Jun-2018 02:57:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:57:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:57:37 UTC] PHP Stack trace:
+[10-Jun-2018 02:57:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:57:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:57:53 UTC] PHP Stack trace:
+[10-Jun-2018 02:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:58:06 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 69
+[10-Jun-2018 02:58:06 UTC] PHP Stack trace:
+[10-Jun-2018 02:58:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:58:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 33
+[10-Jun-2018 02:58:25 UTC] PHP Stack trace:
+[10-Jun-2018 02:58:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:58:41 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 02:58:41 UTC] PHP Stack trace:
+[10-Jun-2018 02:58:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:58:51 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 02:58:51 UTC] PHP Stack trace:
+[10-Jun-2018 02:58:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:58:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 02:58:59 UTC] PHP Stack trace:
+[10-Jun-2018 02:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:59:29 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 02:59:29 UTC] PHP Stack trace:
+[10-Jun-2018 02:59:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 02:59:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 02:59:43 UTC] PHP Stack trace:
+[10-Jun-2018 02:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:01:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:01:09 UTC] PHP Stack trace:
+[10-Jun-2018 03:01:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:05:13 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:05:13 UTC] PHP Stack trace:
+[10-Jun-2018 03:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:05:29 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 74
+[10-Jun-2018 03:05:29 UTC] PHP Stack trace:
+[10-Jun-2018 03:05:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:06:29 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 74
+[10-Jun-2018 03:06:29 UTC] PHP Stack trace:
+[10-Jun-2018 03:06:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:06:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:06:48 UTC] PHP Stack trace:
+[10-Jun-2018 03:06:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:06:54 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:06:54 UTC] PHP Stack trace:
+[10-Jun-2018 03:06:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:06:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:06:58 UTC] PHP Stack trace:
+[10-Jun-2018 03:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:03 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:03 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:06 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:06 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:08 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:08 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:20 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:20 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:40 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:45 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:07:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:07:58 UTC] PHP Stack trace:
+[10-Jun-2018 03:07:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:08:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:08:25 UTC] PHP Stack trace:
+[10-Jun-2018 03:08:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:08:30 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:08:30 UTC] PHP Stack trace:
+[10-Jun-2018 03:08:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:08:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:08:45 UTC] PHP Stack trace:
+[10-Jun-2018 03:08:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:08:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:08:59 UTC] PHP Stack trace:
+[10-Jun-2018 03:08:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:09:19 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:09:19 UTC] PHP Stack trace:
+[10-Jun-2018 03:09:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:09:27 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:09:27 UTC] PHP Stack trace:
+[10-Jun-2018 03:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:11:28 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 73
+[10-Jun-2018 03:11:28 UTC] PHP Stack trace:
+[10-Jun-2018 03:11:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:49:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:49:09 UTC] PHP Stack trace:
+[10-Jun-2018 03:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:49:21 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:49:21 UTC] PHP Stack trace:
+[10-Jun-2018 03:49:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:49:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:49:40 UTC] PHP Stack trace:
+[10-Jun-2018 03:49:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:49:57 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:49:57 UTC] PHP Stack trace:
+[10-Jun-2018 03:49:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:50:35 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:50:35 UTC] PHP Stack trace:
+[10-Jun-2018 03:50:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 03:50:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 03:50:48 UTC] PHP Stack trace:
+[10-Jun-2018 03:50:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:22:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 04:22:39 UTC] PHP Stack trace:
+[10-Jun-2018 04:22:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:22:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 04:22:58 UTC] PHP Stack trace:
+[10-Jun-2018 04:22:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:23:27 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 79
+[10-Jun-2018 04:23:27 UTC] PHP Stack trace:
+[10-Jun-2018 04:23:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:24:00 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:24:00 UTC] PHP Stack trace:
+[10-Jun-2018 04:24:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:24:56 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:24:56 UTC] PHP Stack trace:
+[10-Jun-2018 04:24:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:25:16 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:25:16 UTC] PHP Stack trace:
+[10-Jun-2018 04:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:25:44 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:25:44 UTC] PHP Stack trace:
+[10-Jun-2018 04:25:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:26:03 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:26:03 UTC] PHP Stack trace:
+[10-Jun-2018 04:26:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:26:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:26:25 UTC] PHP Stack trace:
+[10-Jun-2018 04:26:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:26:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 82
+[10-Jun-2018 04:26:40 UTC] PHP Stack trace:
+[10-Jun-2018 04:26:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:27:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:27:42 UTC] PHP Stack trace:
+[10-Jun-2018 04:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:28:01 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:28:01 UTC] PHP Stack trace:
+[10-Jun-2018 04:28:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:29:28 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:29:28 UTC] PHP Stack trace:
+[10-Jun-2018 04:29:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:29:36 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:29:36 UTC] PHP Stack trace:
+[10-Jun-2018 04:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:29:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:29:37 UTC] PHP Stack trace:
+[10-Jun-2018 04:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:29:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:29:45 UTC] PHP Stack trace:
+[10-Jun-2018 04:29:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:30:19 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:30:19 UTC] PHP Stack trace:
+[10-Jun-2018 04:30:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:31:21 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 88
+[10-Jun-2018 04:31:21 UTC] PHP Stack trace:
+[10-Jun-2018 04:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:31:36 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 90
+[10-Jun-2018 04:31:36 UTC] PHP Stack trace:
+[10-Jun-2018 04:31:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:32:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:32:05 UTC] PHP Stack trace:
+[10-Jun-2018 04:32:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:32:46 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:32:46 UTC] PHP Stack trace:
+[10-Jun-2018 04:32:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:35:34 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:35:34 UTC] PHP Stack trace:
+[10-Jun-2018 04:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:35:38 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:35:38 UTC] PHP Stack trace:
+[10-Jun-2018 04:35:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:00 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:36:00 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:10 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:36:10 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:29 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:36:29 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:36:39 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:56 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:36:56 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:36:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:36:59 UTC] PHP Stack trace:
+[10-Jun-2018 04:36:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:37:13 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:37:13 UTC] PHP Stack trace:
+[10-Jun-2018 04:37:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:37:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:37:26 UTC] PHP Stack trace:
+[10-Jun-2018 04:37:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:37:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 92
+[10-Jun-2018 04:37:32 UTC] PHP Stack trace:
+[10-Jun-2018 04:37:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:39:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 90
+[10-Jun-2018 04:39:43 UTC] PHP Stack trace:
+[10-Jun-2018 04:39:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:39:54 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 96
+[10-Jun-2018 04:39:54 UTC] PHP Stack trace:
+[10-Jun-2018 04:39:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:40:46 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 104
+[10-Jun-2018 04:40:46 UTC] PHP Stack trace:
+[10-Jun-2018 04:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:40:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 104
+[10-Jun-2018 04:40:59 UTC] PHP Stack trace:
+[10-Jun-2018 04:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:41:06 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 104
+[10-Jun-2018 04:41:06 UTC] PHP Stack trace:
+[10-Jun-2018 04:41:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:41:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 104
+[10-Jun-2018 04:41:18 UTC] PHP Stack trace:
+[10-Jun-2018 04:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:41:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 104
+[10-Jun-2018 04:41:26 UTC] PHP Stack trace:
+[10-Jun-2018 04:41:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:41:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 04:41:48 UTC] PHP Stack trace:
+[10-Jun-2018 04:41:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:43:11 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 04:43:11 UTC] PHP Stack trace:
+[10-Jun-2018 04:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 04:43:14 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 04:43:14 UTC] PHP Stack trace:
+[10-Jun-2018 04:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:32:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:32:33 UTC] PHP Stack trace:
+[10-Jun-2018 05:32:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:38:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:38:37 UTC] PHP Stack trace:
+[10-Jun-2018 05:38:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:38:45 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:38:45 UTC] PHP Stack trace:
+[10-Jun-2018 05:38:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:39:02 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:39:02 UTC] PHP Stack trace:
+[10-Jun-2018 05:39:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:39:16 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:39:16 UTC] PHP Stack trace:
+[10-Jun-2018 05:39:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:39:28 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:39:28 UTC] PHP Stack trace:
+[10-Jun-2018 05:39:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:39:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:39:53 UTC] PHP Stack trace:
+[10-Jun-2018 05:39:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:40:01 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:40:01 UTC] PHP Stack trace:
+[10-Jun-2018 05:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:46:00 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:46:00 UTC] PHP Stack trace:
+[10-Jun-2018 05:46:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:46:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:46:33 UTC] PHP Stack trace:
+[10-Jun-2018 05:46:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:46:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:46:53 UTC] PHP Stack trace:
+[10-Jun-2018 05:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:47:02 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:47:02 UTC] PHP Stack trace:
+[10-Jun-2018 05:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:47:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:47:18 UTC] PHP Stack trace:
+[10-Jun-2018 05:47:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:47:23 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:47:23 UTC] PHP Stack trace:
+[10-Jun-2018 05:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:47:41 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:47:41 UTC] PHP Stack trace:
+[10-Jun-2018 05:47:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:50:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:50:48 UTC] PHP Stack trace:
+[10-Jun-2018 05:50:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:50:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 100
+[10-Jun-2018 05:50:59 UTC] PHP Stack trace:
+[10-Jun-2018 05:50:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:51:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 101
+[10-Jun-2018 05:51:48 UTC] PHP Stack trace:
+[10-Jun-2018 05:51:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:52:46 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 101
+[10-Jun-2018 05:52:46 UTC] PHP Stack trace:
+[10-Jun-2018 05:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:52:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 101
+[10-Jun-2018 05:52:58 UTC] PHP Stack trace:
+[10-Jun-2018 05:52:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:53:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 101
+[10-Jun-2018 05:53:05 UTC] PHP Stack trace:
+[10-Jun-2018 05:53:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:53:16 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 101
+[10-Jun-2018 05:53:16 UTC] PHP Stack trace:
+[10-Jun-2018 05:53:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:53:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 102
+[10-Jun-2018 05:53:53 UTC] PHP Stack trace:
+[10-Jun-2018 05:53:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:54:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 105
+[10-Jun-2018 05:54:39 UTC] PHP Stack trace:
+[10-Jun-2018 05:54:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:55:00 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 107
+[10-Jun-2018 05:55:00 UTC] PHP Stack trace:
+[10-Jun-2018 05:55:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:55:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:55:39 UTC] PHP Stack trace:
+[10-Jun-2018 05:55:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:56:57 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:56:57 UTC] PHP Stack trace:
+[10-Jun-2018 05:56:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:57:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:57:18 UTC] PHP Stack trace:
+[10-Jun-2018 05:57:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:57:56 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:57:56 UTC] PHP Stack trace:
+[10-Jun-2018 05:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:57:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:57:59 UTC] PHP Stack trace:
+[10-Jun-2018 05:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:57:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:57:59 UTC] PHP Stack trace:
+[10-Jun-2018 05:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:58:12 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:58:12 UTC] PHP Stack trace:
+[10-Jun-2018 05:58:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:58:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:58:18 UTC] PHP Stack trace:
+[10-Jun-2018 05:58:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 05:58:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 05:58:26 UTC] PHP Stack trace:
+[10-Jun-2018 05:58:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:00:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 06:00:26 UTC] PHP Stack trace:
+[10-Jun-2018 06:00:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:01:56 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 06:01:56 UTC] PHP Stack trace:
+[10-Jun-2018 06:01:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:04:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:04:39 UTC] PHP Stack trace:
+[10-Jun-2018 06:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:04:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:04:52 UTC] PHP Stack trace:
+[10-Jun-2018 06:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:05:07 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:05:07 UTC] PHP Stack trace:
+[10-Jun-2018 06:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:05:18 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:05:18 UTC] PHP Stack trace:
+[10-Jun-2018 06:05:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:05:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:05:32 UTC] PHP Stack trace:
+[10-Jun-2018 06:05:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:05:38 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:05:38 UTC] PHP Stack trace:
+[10-Jun-2018 06:05:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:05:49 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:05:49 UTC] PHP Stack trace:
+[10-Jun-2018 06:05:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:06:04 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:06:04 UTC] PHP Stack trace:
+[10-Jun-2018 06:06:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:07:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:07:53 UTC] PHP Stack trace:
+[10-Jun-2018 06:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:08:01 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 115
+[10-Jun-2018 06:08:01 UTC] PHP Stack trace:
+[10-Jun-2018 06:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:08:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 113
+[10-Jun-2018 06:08:32 UTC] PHP Stack trace:
+[10-Jun-2018 06:08:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:16:17 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:16:17 UTC] PHP Stack trace:
+[10-Jun-2018 06:16:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:16:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:16:55 UTC] PHP Stack trace:
+[10-Jun-2018 06:16:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:17:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:17:09 UTC] PHP Stack trace:
+[10-Jun-2018 06:17:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:17:16 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:17:16 UTC] PHP Stack trace:
+[10-Jun-2018 06:17:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:17:38 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:17:38 UTC] PHP Stack trace:
+[10-Jun-2018 06:17:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:17:47 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:17:47 UTC] PHP Stack trace:
+[10-Jun-2018 06:17:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:17:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:17:58 UTC] PHP Stack trace:
+[10-Jun-2018 06:17:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:18:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:18:05 UTC] PHP Stack trace:
+[10-Jun-2018 06:18:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:18:13 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:18:13 UTC] PHP Stack trace:
+[10-Jun-2018 06:18:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:18:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:18:37 UTC] PHP Stack trace:
+[10-Jun-2018 06:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[10-Jun-2018 06:19:57 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 116
+[10-Jun-2018 06:19:57 UTC] PHP Stack trace:
+[10-Jun-2018 06:19:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0
+[12-Jun-2018 18:58:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/assets/email/emailTrocaSenha.php on line 124
+[12-Jun-2018 18:58:59 UTC] PHP Stack trace:
+[12-Jun-2018 18:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assets/email/emailTrocaSenha.php:0

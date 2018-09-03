@@ -1,0 +1,653 @@
+/* GERAL */
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small{
+    font-size: 0.8rem;
+    color: #a8a8a8;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+nav{
+    box-shadow: 1px 1px 3px #000;
+}
+
+.navbar{
+    padding: 0.1rem 1rem;
+}
+
+.menu-static{
+    animation-name: menu-scroll-animate2;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+}
+
+    @keyframes menu-scroll-animate2{
+        from{background: rgba(0, 147, 52, 0.8); color: #FFF; padding: 0.1rem 200px}
+        to{background: #f2f2f2; color: #2b2b2b; padding: 0.1rem 1rem}
+    }
+
+.menu-scroll{
+    animation-name: menu-scroll-animate;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+    .menu-scroll #navigation .nav-link{
+        animation-name: menu-scroll-text-animate;
+        animation-duration: 0.5s;
+        animation-fill-mode: forwards;
+    }
+    
+    .menu-scroll .navbar-brand p{
+        display: none;
+    }
+    
+    .menu-scroll #btnUserLog{
+        color: #2b2b2b !important;
+        background: #FFF;
+    }
+    
+        .menu-scroll #btnUserLog span{
+            color: #009334;
+        }
+    
+    @keyframes menu-scroll-animate{
+        from{background: #f2f2f2; color: #2b2b2b}
+        to{background: rgba(0, 147, 52, 0.8); font-size: 0.6rem; font-weight: bold; color: #FFF; padding: 0.1rem calc(50% - 450px)}
+    }
+    
+    @keyframes menu-scroll-text-animate{
+        from{color: #2b2b2b}
+        to{font-size: 0.6rem; color: #FFF}
+    }
+/* FIM GERAL */
+
+/* BOTÃO */
+.btn-not-focus:focus{
+    outline: none;
+}
+
+.btn-error{
+    background: #ff6961 !important;
+}
+
+.btn-confirm{
+    background: #56c54d !important;
+}
+
+.btn-text{
+    background: #4e4e4e !important;
+}
+
+    .btn-text-close{
+        color: #4d4d4d !important;
+        border: 1px solid #4d4d4d !important;
+        background: #FFF;
+    }
+    
+.btn-alerts{
+    background: #ddde60 !important;
+}
+
+.btn-sim{
+    background: #89dcf7 !important;
+}
+
+.btn-nao{
+    background: #ff6961 !important;
+}
+
+/* FIM BOTÃO */
+
+/* MENU */
+.navbar-brand p{
+    font-weight: 450; 
+    border-left: 1px solid #cfcfcf; 
+    line-height: 14px;
+}
+
+#btnUserDesl, #btnUserLog{
+    border: 1px solid #009334;
+    border-radius: 3px;
+    line-height: 14px;
+    color: #2b2b2b !important;
+}
+
+    #btnUserDesl span{
+        color: #009334;
+    }
+    
+    #btnUserDesl p{
+        font-weight: normal;
+        color: #2b2b2b !important;
+    }
+    
+#btnUserLog{
+    color: #FFF !important;
+    background: #009334;
+}
+
+    #btnUserLog span{
+        color: #fff665;
+    }
+/* FIM MENU */
+
+/* ACESSIBILIDADE */
+.menu-acessbilidade{
+    width: 500px;
+    top: 50px;
+    background: #74c9ff;
+    border-radius: 3px;
+}
+
+#select_lang{
+    cursor: pointer;
+    width: auto;
+    padding-left: 5px;
+    background: #FFF;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.item-lang{
+    margin: 5px 0px;
+    list-style: none;
+    color: #2b2b2b;
+}
+
+    #select_item_lang{
+        height: 0px;
+    }
+
+    #select_item_lang .item-lang:hover{
+        background: #cfcfcf;
+    }
+    
+        .select_item_open{
+            height: auto !important;
+        }
+
+/*#google_translate_element, .goog-te-banner-frame, .goog-te-balloon-frame,
+#goog-gt-tt, .goog-te-balloon-frame, .goog-tooltip, .goog-tooltip:hover {
+    display:none !important;
+}*/
+
+        
+.tam_letra{
+    cursor: pointer;
+    color: #FFF;
+    border: none;
+    background: none;
+}
+/* FIM ACESSIBILIDADE */
+
+/* BANNER */
+header{
+    z-index: 0;
+    position: relative;
+    width: 100%;
+    height: 450px;
+    margin-top: 44px;
+}
+    
+    .banner-item{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        background-size: cover !important;
+        background-position: center center !important;
+        opacity: 0;
+    }
+    
+        .banner-conteudo{
+            position: relative;
+            height: 360px;
+            background-repeat: no-repeat !important;
+        }
+        
+        .banner-caption{
+            z-index: 0;
+            position: absolute;
+            width: 350px;
+            height: 150px;
+            padding: 5px;
+            right: 0px;
+            bottom: 10px;
+            border: 1px solid #009334;
+            border-radius: 3px;
+            background: rgba(0, 0, 0, 0.6);
+        }
+        
+            .banner-caption h2{
+                width: 100%;
+                font-size: 1rem;
+                color: yellow !important;
+            }
+            
+            .banner-caption p{
+                color: #FFF;
+            }
+            
+            .banner-caption .btn{
+                position: absolute;
+                right: 15px;
+                bottom: 15px;
+            }
+            
+            .banner-controlador{
+                z-index: 5;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: absolute;
+                width: 100px;
+                height: 30px;
+                top: 50px;
+                background: red;
+            }
+            
+                .banner-controlador-item{
+                    cursor: pointer;
+                    float: left;
+                    width: 10px;
+                    height: 10px;
+                    margin: 5px;
+                    border-radius: 100%;
+                    background: yellow;
+                }
+            
+    #curso-img-front{
+        z-index: 1;
+        position: absolute;
+        width: 100%;
+        bottom: 0px;
+    }
+    
+    /* BANNER APRESENTAÇÃO */
+    .banner-apres{
+        z-index: 2;
+        position: absolute;
+        width: 80%;
+        left: 10%;
+        height: 450px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .banner-apres h1{
+        font-size: 4rem;
+        text-align: center;
+    }
+
+    .banner-apres h1 span:nth-child(1){
+        z-index: 2;
+        position: relative;
+        padding: 0px 10px;
+        color: #FFF;
+        background: #009334;
+    }
+    
+    .banner-apres h1 span:nth-child(3){
+        display: inline-block;
+        position: relative;
+        padding: 2px 5px;
+        top: -20px;
+        font-size: 2rem;
+        color: #2b2b2b;
+        transform: rotate(-2deg);
+        background: #FFF;
+    }
+    /* FIM BANNER APRESENTAÇÃO */
+/* FIM BANNER */
+
+/* CONTAINER */
+.first-container{
+    margin-top: -90px !important;
+}
+/* FIM CONTAINER */
+
+/* LISTAGEM DE CURSOS */
+.thumb-curso a{
+    color: #000;
+    text-decoration: none;
+}
+
+.thumb-curso-head{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #000;
+    overflow: hidden;
+}
+    
+    .thumb-curso-head h3{
+        z-index: 1;
+        position: absolute;
+        width: 100%;
+        bottom: 10px;
+        font-size: 0.8rem;
+        text-align: center;
+        transition: 0.2s ease-in-out;
+    }
+    
+        .thumb-curso-head h3 .nome-curso{
+            float: left;
+            width: 100%;
+            padding: 2px 5px;
+            color: #FFF;
+            background: #009334;
+            transform: rotate(-2deg);
+            transition: 0.2s ease-in-out;
+        }
+        .thumb-curso-head .status{
+            position: relative;
+            padding: 2px 5px 5px 2px;
+            bottom: 3px;
+            color: #FFF;
+            background: #2b2b2b;
+            transition: 0.2s ease-in-out;
+        }
+    
+.thumb-curso-head img{
+    padding: 0px;
+    transition: ease-in-out 0.2s;
+}
+
+    .thumb-curso:hover img{
+        z-index: 0;
+        position: relative;
+        opacity: 0.4;
+        transform: scale(1.1);
+    }
+
+    .thumb-curso:hover h3 .nome-curso{
+        padding-left: 10px;
+        background: none;
+    }
+    
+    .thumb-curso:hover .status{
+        padding-bottom: 2px;
+        background: #009334;
+    }
+/* FIM LISTAGEM DE CURSOS */
+
+/* TELA DE ACESSO */
+/* FIM TELA DE ACESSO */
+
+/* MODAL */
+.modal{
+    z-index: 9999;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+    .modal_content{
+        display: flex;
+        justify-content: center;
+    }
+
+    .modal_close{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 10px;
+        right: 35px;
+        text-align: center;
+    }
+    
+        .btn-close-modal{
+            cursor: pointer;
+            color: #FFF;
+            border: none;
+            background: none;
+        }
+        
+    /* MODAL LOADING */
+    #modal_loading{
+        display: flex;
+        position: fixed; 
+        z-index: 99999999; 
+        width: 100%; 
+        height: 100%; 
+        top: 0px; 
+        left: 0px; 
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background: rgba(0, 77, 27, 0.8); 
+        color: #FFF; 
+        border-radius: 3px;
+        opacity: 0;
+    }
+    /* FIM MODAL LOADING */
+/* FIM MODAL */
+
+/* CARRINHO DE COMPRAS */
+.carrinho{
+    z-index: 9999;
+    position: fixed;
+    display: flex;
+    height: 60px;
+    top: 50px;
+    right: 16px;
+    align-items: center;
+}
+
+    .carrinho img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+    }
+
+    .carrinho div{
+        height: 40px;
+        padding: 2px 5px;
+        padding-left: 30px;
+        margin-left: 30px;
+        font-size: 0.8rem;
+        line-height: 16px;
+        border-radius: 3px;
+        border: 2px solid #2994FF;
+        color: #2b2b2b;
+        background: #FFF;
+    }
+    
+    .carrinho-animate{
+        animation-name: carrinho-animation;
+        animation-duration: 0.5s;
+        animation-fill-mode: forwards;
+    }
+    
+    .carrinho-static{
+        animation-name: carrinho-static;
+        animation-duration: 0.3s;
+        animation-fill-mode: forwards;
+    }
+    
+    @keyframes carrinho-animation{
+        from{top:50px}
+        to{top: -5px; right: 100px}
+    }
+    
+    @keyframes carrinho-static{
+        from{top: -5px; right: 100px}
+        to{position: fixed; top: 50px; right: 16px;}
+    }
+    
+    .price-tc{
+        color: red; text-decoration: line-through; margin-right: 10px; font-size: 0.8rem;
+    }
+    
+    .price-desc{
+        font-weight: bold;
+        color: #009334;
+    }
+/* FIM CARRINHO DE COMPRAS */
+
+/* DASHBOARD */
+.dashboard-topo{
+    height: 200px;
+}
+
+.username_apres{
+    z-index: 3;
+    position: absolute;
+    padding: 5px;
+    left: 220px;
+    top: -50px;
+    font-size: 1.5rem;
+    color: yellow;
+    font-weight: bold;
+    text-shadow: 0px 0px 1px #000;
+}
+
+    .username_apres span{
+        color: #FFF;
+    }
+
+.img-user{
+    position: relative; 
+    width: 150px; 
+    height: 150px; 
+    padding: 5px; 
+    margin-top: -100px; 
+    background: #FFF; 
+    border: 2px solid #2994FF; 
+    border-radius: 100%;
+    overflow: hidden; 
+}
+
+.img-user, .img-user label{
+    cursor: pointer !important;
+}
+
+.img-user span{
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    padding: 5px 0px 10px 0px;
+    left: 0px;
+    bottom: 0px;
+    color: #FFF;
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+}
+
+.img-user:hover img{
+    opacity: 0.6;
+}
+
+.img-user:hover span{
+    opacity: 1;
+}
+
+.menu-usuario-lateral{
+    border: 1px solid #cfcfcf;
+}
+
+.form-dados-header{
+    padding: 2px;
+    color: #FFF;
+    background: #009334;
+}
+
+.form-dados-body{
+    border: 1px solid #cfcfcf;
+}
+
+@media screen and (max-width: 991px){
+    .navbar-brand p{
+        display: none;
+    }
+    
+    .modal{
+        display: block;
+        padding: 60px 0px;
+    }
+    
+    .banner-apres h1{
+        line-height: 0.6;
+    }
+    
+        .banner-apres h1 span:nth-child(1){
+            font-size: 2rem;
+        }
+        
+        .banner-apres h1 span:nth-child(3){
+            padding: 5px 2px;
+            top: 10px;
+            font-size: 1.5rem;
+            line-height: 2rem;
+        }
+        
+    iframe{
+        width: 100%;
+    }
+    
+    .banner-conteudo{
+        background: none !important;
+    }
+    
+    .nav-redes{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .navbar{
+        padding: 0.5rem 1rem;
+    }
+    
+    .navbar-brand{
+        width: calc(100% - 60px);
+        margin-right: 0px;
+        justify-content: center;
+        box-sizing: border-box;
+    }
+    
+        .navbar-brand p{
+            display: block;
+        }
+        
+        .nav-redes{
+            flex-direction: row;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+    
+    .banner-conteudo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+        .banner-caption{
+            position: relative;
+        }
+        
+    .nav-redes{
+        display: flex !important;
+    }
+    
+    .username_apres{
+        width: 100%;
+        padding: 0px;
+        left: 0px;
+        top: 30px;
+        font-size: 1rem;
+        text-align: center;
+    }
+}

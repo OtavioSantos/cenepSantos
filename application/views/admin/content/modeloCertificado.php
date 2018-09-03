@@ -1,0 +1,1 @@
+<img class="img-fluid" src="<?= base_url('assets/img/diversos/modelo_certificado_frente.jpg') ?>">

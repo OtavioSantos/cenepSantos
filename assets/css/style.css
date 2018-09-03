@@ -1,0 +1,388 @@
+a:hover{
+    text-decoration: none;
+}
+
+nav{
+    box-shadow: 1px 1px 3px #000;
+}
+
+.divisor::before{
+    content: " ";
+    display: inline-block;
+    border-top: 1px solid #FFF;
+    width: 45%;
+    float: left;
+    vertical-align: middle;
+    margin-top: 9px;
+}
+
+.divisor::after{
+    content: " ";
+    display: inline-block;
+    border-top: 1px solid #FFF;
+    width: 45%;
+    float: right;
+    vertical-align: middle;
+    margin-top: 9px;
+}
+
+/*header*/
+.slide-resp, .slide-inner{
+    position: relative;
+    width: 100%;
+    height: 450px;
+    margin-top: 62px;
+}
+
+.slide-item{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    background: #004518;
+}
+
+.slide-item .img-fundo{
+    width: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+.slide-caption{
+    z-index: 1;
+    position:absolute;
+    width: 350px;
+    height: 150px;
+    padding: 5px;
+    right: 100px;
+    bottom: 100px;
+    border: 1px solid #009334;
+    border-radius: 3px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+    .slide-caption h2{
+        width: 100%;
+        font-size: 1rem;
+        color: yellow !important;
+    }
+    
+    .slide-caption p{
+        color: #FFF;
+    }
+    
+    .slide-caption .btn{
+        position: absolute;
+        right: 15px;
+        bottom: 15px;
+    }
+    
+.slide-text{
+    z-index: 2;
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 450px;
+    text-align: center;
+}
+
+    .slide-text h1{
+        font-size: 4rem;
+    }
+
+    .slide-text h1 span{
+        z-index: 2;
+        position: relative;
+        padding: 0px 10px;
+        color: #FFF;
+        background: #009334;
+    }
+    
+    .slide-text h1 p{
+        padding: 2px 5px;
+        font-size: 2rem;
+        color: #2b2b2b;
+        transform:rotate(-2deg);
+        background: #FFF;
+    }
+    
+    .search-input{
+        border-bottom-right-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    
+    .btn-search{
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    
+.slide-item:hover .img-fundo{
+    transform: scale(1.05);
+}
+/*fim header*/
+
+/*container*/
+.first-container{
+    z-index: 2;
+    position: relative;
+    margin-top: -75px;
+    border-radius: 3px;
+    background: #FFF;
+}
+
+.container-titulo{
+    
+    color: #009334;
+}
+/*fim container*/
+
+
+
+/*noticia*/
+.thumb-not-dest h3{
+    font-size: 1rem;
+}
+/*fim noticia*/
+
+/*cadastro/login*/
+.log-window{
+    position: relative;
+    border: 1px solid #009334;
+    border-radius: 3px;
+}
+
+#logar{
+    color: #FFF;
+    background: #009334;
+}
+
+#cadastrar{
+    position: relative;
+}
+
+#cadastrar div{
+    background: #f2f2f2;
+}
+
+#login-screen small{
+    font-size: 0.8rem;
+}
+
+#cadastrar .form-row{
+    position: relative;
+    display: none;
+}
+
+.form-error{
+    font-size: 0.6rem;
+    font-weight: bold;
+    color: #ff5454;
+}
+/*fim cadastro/login*/
+
+
+/*fim curso*/
+
+/* prop-inst */
+.prop-inst h2{
+    transform: skewY(-3deg);
+}
+
+.prop-inst h2 strong{
+    z-index: 2;
+    position: relative;
+    padding: 0px 5px;
+    font-size: 2rem;
+    color: #FFF;
+    text-shadow: -1px 1px #000;
+    background: #00d8ff;
+}
+
+.prop-inst h2 p{
+    padding: 2px 5px;
+    margin-top: 5px;
+    font-size: 1.2rem;
+    color: #2b2b2b;
+    background: #FFF;
+    transform: skewY(2deg);
+}
+/*opiniao*/
+#opiniao p{
+    width: 80%;
+    margin: 0% 10%;
+}
+
+#opiniao h5{
+    color: #007bff;
+    line-height: 14px;
+}
+
+#opiniao h5 span{
+    font-size: 0.8rem;
+}
+/*fim opiniao*/
+
+/*footer*/
+footer *{
+    color: #FFF;
+}
+
+footer h6{
+    padding: 0px !important;
+    color: #fff55c;
+}
+
+#otvss-prop{
+    text-shadow: 1px -1px #000, -1px 1px #000, 1px 1px #000, -1px -1px #000;
+}
+
+#otvss-prop img{
+    width: 50px;
+}
+
+#otvss-prop a p{
+    margin-bottom: 0px;
+}
+
+#otvss-desc{
+    margin-left: 10px;
+    font-size: 0.6rem;
+    line-height: 14px;
+    color: #FFF;
+}
+
+#otvss-desc span{
+    margin-left: -10px;
+    font-family: 'Tahoma';
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffd200;
+}
+/*fim footer*/
+
+/*visCurso*/
+.inf-bas h3{
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.share{
+    font-size: 1rem;
+}
+
+.jssocials-share-link{
+    border-radius: 50%;
+}
+
+#pg-screen p .fa-check-circle, #pg-screen h5{
+    color: #007bff;
+}
+
+#curso-img-front{
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+/*fim visCurso*/
+
+.col-lg-2-5{
+    float: left;
+    width: 20%;
+}
+
+@media screen and (min-width: 1366px){
+    nav, nav .control-input, .navbar-brand p, .dropdown a{
+        font-size: 0.8rem;
+    }
+    
+    nav .nav-rede{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    nav, nav .control-input, .navbar-brand p, .dropdown a{
+        font-size: 0.7rem;
+    }
+    
+    nav .nav-rede{
+        font-size: 1.5rem;
+    }
+    
+    #btnUserDesl, #btnUserLog{
+        font-size: 0.7rem;
+    }
+    
+    .slide-text h1 span{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .slide-item .img-fundo{
+        width: auto;
+        opacity: 0.4;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .slide-text h1 span{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #login-screen{
+        position: relative;
+        padding: 87px 0px;
+    }
+    
+    .slide-resp{
+        height: 300px;
+        margin-top: -10px;
+    }
+    
+    .slide-caption{
+        width: 90%;
+        top: 15px;
+        left: 5%;
+        background: rgba(0, 0, 0, 0.8);
+    }
+    
+    .slide-text{
+        width: 100%;
+        left: 0px;
+        height: 220px;
+    }
+    
+    .slide-text h1, .slide-text h1 p{
+        font-size: 0.2rem;
+    }
+    
+        .slide-text h1 p{
+            font-size: 1rem;
+        }
+    
+    .share{
+        display: none;
+    }
+    
+    .prop-inst h2{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .col-lg-2-5{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .slide-item .img-fundo{
+        width: cover;
+        height: auto;
+    }
+}

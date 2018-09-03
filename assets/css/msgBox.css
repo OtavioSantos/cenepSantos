@@ -1,0 +1,62 @@
+.msgBox{
+    position: relative;
+    width: 600px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+    .msgBox_titulo{
+        display: flex;
+        padding: 5px;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+        color: #FFF;
+        align-items: center;
+    }
+    
+    .msgBox_body{
+        padding: 5px;
+        background: #FFF;
+    }
+    
+        .msgBox_msg{
+            padding: 15px;
+        }
+        
+            .msgBox_titulo i{
+                margin-right: 10px;
+            }
+    
+        .msgBox_option{
+            display: block;
+            width: 100%;
+            text-align: right;
+            padding: 5px;
+        }
+    
+/* TIPOS */
+.error{
+    background: #ff6961;
+    border-color: #ff6961;
+}
+
+.confirm{
+    background: #56c54d;
+    border-color: #56c54d;
+}
+
+.text{
+    background: #4e4e4e;
+    border-color: #4e4e4e;
+}
+
+.alerts{
+    background: #ddde60;
+    border-color: #ddde60;
+}
+
+.option{
+    background: #89d4f7;
+    border-color: #89d4f7;
+}

@@ -1,0 +1,77 @@
+::-webkit-scrollbar {
+    width: 6px;
+    background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+    background: #dad7d7;
+}
+
+.tbl-list{
+    height: auto;
+    max-height: 500px;
+}
+
+.tbl-list tbody tr{
+    cursor: pointer;
+    user-select: none;
+}
+
+.tbl-list tbody tr:hover{
+    color: #FFF;
+    background: #009334;
+}
+
+.option-menu button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: none;
+}
+
+.config-message{
+    display: none;
+}
+
+.home-option{
+    cursor: pointer;
+    padding: 28% 10px;
+    margin: 10px;
+    color: #FFF;
+    border-radius: 3px;
+}
+
+    .dashboard-cont .row .col-sm-4:nth-child(1) .home-option{
+        background: #47f25f;
+    }
+    
+    .dashboard-cont .row .col-sm-4:nth-child(2) .home-option{
+        background: #56bdff;
+    }
+    
+    .dashboard-cont .row .col-sm-4:nth-child(3) .home-option{
+        background: #ff6161;
+    }
+    
+    .dashboard-cont .row .col-sm-4:nth-child(4) .home-option{
+        background: #ffb361;
+    }
+    
+    .dashboard-cont .row .col-sm-4:nth-child(5) .home-option{
+        background: #e361ff;
+    }
+    
+    .dashboard-cont .row .col-sm-4:nth-child(6) .home-option{
+        background: #f2f2f2;
+    }
+    
+.cert-item{
+    border: 2px solid #000;
+}
+
+@media print{
+    .cert-item{
+        width: 100%;
+        height: 100%;
+        border: 2px solid #000;
+    }
+}
